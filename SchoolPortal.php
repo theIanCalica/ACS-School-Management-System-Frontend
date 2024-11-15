@@ -1,4 +1,3 @@
-
 <!doctype html>
 <!--[if IE 9]> <html class="no-js ie9 fixed-layout" lang="en"> <![endif]-->
 <!--[if gt IE 9]><!-->
@@ -20,8 +19,6 @@
             margin: 4px 2px;
             cursor: pointer;
         }
-    
-
     </style>
 
     <!-- Basic -->
@@ -148,34 +145,34 @@
         <br>
         <br>
 
-<div id="login-form-wrap">
-    <h1><span style="font-size: 2.0em;">School Portal</span></h1>
-    <br><br>
-    <a href="../Student/StudentLogIn.php">
-        <button style="background-color: #C62C2C; color: white; font-size: 1.2em; padding: 10px 10px;">
-            I'm a Student
-        </button>
-    </a>
+        <div id="login-form-wrap">
+            <h1><span style="font-size: 2.0em;">School Portal</span></h1>
+            <br><br>
+            <a href="../Student/StudentLogIn.php">
+                <button style="background-color: #C62C2C; color: white; font-size: 1.2em; padding: 10px 10px;">
+                    I'm a Student
+                </button>
+            </a>
 
-    <a href="../Teacher/TeacherLogIn.php">
-        <button style="background-color: #C62C2C; color: white; font-size: 1.2em; padding: 10px 10px;">
-            I'm an Educator
-        </button>
-    </a>
+            <a href="../Teacher/TeacherLogIn.php">
+                <button style="background-color: #C62C2C; color: white; font-size: 1.2em; padding: 10px 10px;">
+                    I'm an Educator
+                </button>
+            </a>
 
-    <a href="../Parent/ParentLogIn.php">
-        <button style="background-color: #C62C2C; color: white; font-size: 1.2em; padding: 10px 10px;">
-            I'm a Parent
-        </button>
-    </a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <div id="create-account-wrap">
-        <p>Not a member? <a href="SignIn.html">Create Account</a></p>
-    </div>
-</div>
+            <a href="../Parent/ParentLogIn.php">
+                <button style="background-color: #C62C2C; color: white; font-size: 1.2em; padding: 10px 10px;">
+                    I'm a Parent
+                </button>
+            </a>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div id="create-account-wrap">
+                <p>Not a member? <a href="SignIn.html">Create Account</a></p>
+            </div>
+        </div>
 
 
 </body>
